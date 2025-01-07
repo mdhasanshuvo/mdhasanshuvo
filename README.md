@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="250" src="https://i.ibb.co.com/173q4FF/Black-and-White-Modern-Professional-Sales-and-Marketing-Profile-Linked-In-Banner.png"  />
+  <img height="200" src="https://i.ibb.co.com/173q4FF/Black-and-White-Modern-Professional-Sales-and-Marketing-Profile-Linked-In-Banner.png"  />
 </div>
 
 ###
