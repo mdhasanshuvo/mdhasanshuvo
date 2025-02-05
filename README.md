@@ -71,6 +71,6 @@
 📧 **Email:** [mohammedhasan.contact@gmail.com ](mailto:mohammedhasan.contact@gmail.com )  
 📞 **Phone:** [+880 1309 735145](tel:+8801309735145)  
 💼 **LinkedIn:** [Mohammed Hasan](https://www.linkedin.com/in/mohammedd-hasan)  
-🌐 **Portfolio:** [mdhasanshuvo.dev](https://developer-hasan.netlify.app/)  
+🌐 **Portfolio:** [mohammed-hasan.dev](https://developer-hasan.netlify.app)  
 
 ###
