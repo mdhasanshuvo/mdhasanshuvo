@@ -64,13 +64,11 @@
   <img src="https://nirzak-streak-stats.vercel.app?user=mdhasanshuvo&theme=dracula" height="210" alt="streak graph" />
 </div>
 
-###
+### 📫 Contact Me  
 
-<h3 align="left">📫 Contact Me </h3>
-
-📧 **Email:** [mohammedhasan.contact@gmail.com ](mailto:mohammedhasan.contact@gmail.com )  
-📞 **Phone:** [+880 1309 735145](tel:+8801309735145)
-💼 **LinkedIn:** [Mohammed Hasan](https://www.linkedin.com/in/mohammedd-hasan)  
-🌐 **Portfolio:** [mohammed-hasan.dev](https://developer-hasan.netlify.app/)  
+📧 [mohammedhasan.contact@gmail.com](mailto:mohammedhasan.contact@gmail.com)  
+📞 [+880 1309 735145](tel:+8801309735145)  
+💼 [Mohammed Hasan](https://www.linkedin.com/in/mohammedd-hasan)  
+🌐 [mohammed-hasan.dev](https://developer-hasan.netlify.app/)  
 
 ###
