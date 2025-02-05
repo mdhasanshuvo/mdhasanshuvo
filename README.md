@@ -60,8 +60,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdhasanshuvo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=darcula&locale=en&hide_border=true&order=1&custom_title=My%20GitHub%20Stats" height="180" alt="stats graph"  />
-  <img src="https://nirzak-streak-stats.vercel.app?user=mdhasanshuvo&theme=dracula" height="180" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mdhasanshuvo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=darcula&locale=en&hide_border=true&order=1&custom_title=My%20GitHub%20Stats" height="210" alt="stats graph"  />
+  <img src="https://nirzak-streak-stats.vercel.app?user=mdhasanshuvo&theme=dracula" height="210" alt="streak graph" />
 </div>
 
 ###
